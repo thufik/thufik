@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently creating politic project 
 - 🥅 2022 Goals: Learn more about flutter
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Languages and Tools:
 
