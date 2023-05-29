@@ -1,7 +1,7 @@
 # Hi there, I'm Fellipe Thufik 👋 
 
 - 🌱 I’m currently creating politic project 
-- 🥅 2022 Goals: Learn more about flutter
+- 🥅 2023 Goals: Learn more about flutter
 
 ### Languages and Tools:
 
